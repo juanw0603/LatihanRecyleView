@@ -17,4 +17,12 @@ class MainActivity : AppCompatActivity() {
             insets
         }
     }
+
+    private  lateinit var _nama : Array<String>
+    private  lateinit var _karakter : Array<String>
+    private  lateinit var _deskripsi : Array<String>
+    private  lateinit var _gambar : Array<String>
+
+
+
 }
